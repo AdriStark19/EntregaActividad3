@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/action_buscar"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Buscar" />
+    <item
+        android:id="@+id/action_biblioteca"
+        android:icon="@drawable/baseline_library_music_24"
+        android:title="Tu biblioteca" />
+    <item
+        android:id="@+id/action_premium"
+        android:icon="@drawable/baseline_workspace_premium_24"
+        android:title="Premium" />
+</menu>
